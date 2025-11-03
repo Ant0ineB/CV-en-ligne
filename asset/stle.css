@@ -26,7 +26,7 @@ a:link{
 a:visited{
     color: #ffffff;
 }
-img{
+#moi{
     height: 166px;
     width: 166px;
     border-style: solid;
@@ -103,4 +103,28 @@ footer{
 }
 ul li::before{
     color: #17abb3;
+}
+#skill{
+    font-weight: bold;
+}
+#french{
+    display: flexbox;
+    flex-direction: row;
+}
+.french{
+    font-weight: bold
+}
+#english{
+    display: flexbox;
+    flex-direction: row;
+}
+.english{
+    font-weight: bold
+}
+#spanish{
+    display: flexbox;
+    flex-direction: row;
+}
+.spanish{
+    font-weight: bold
 }
