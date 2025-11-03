@@ -104,3 +104,12 @@ footer{
 ul li::before{
     color: #17abb3;
 }
+#perso{
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+}
+}
+}
+    max-width: 1160px;
+}
