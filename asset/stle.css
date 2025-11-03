@@ -96,3 +96,12 @@ footer{
     order: 9;
     width: 1160px;
 }
+#perso{
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+}
+}
+}
+    max-width: 1160px;
+}
