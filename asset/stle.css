@@ -15,6 +15,14 @@ a:link{
 a:visited{
     color: #ffffff;
 }
+img{
+    height: 166px;
+    width: 166px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #ffffff;
+    border-radius: 50%;
+}
 }
     max-width: 1160px;
 }
