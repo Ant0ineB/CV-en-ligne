@@ -8,6 +8,13 @@ header{
     background-color: #17abb3;
     color: #ffffff;
 }
+a:link{
+        color: #ffffff;
+        text-decoration: none;
+    }
+a:visited{
+    color: #ffffff;
+}
 }
     max-width: 1160px;
 }
