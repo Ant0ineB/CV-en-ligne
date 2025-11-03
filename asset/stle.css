@@ -39,12 +39,15 @@ h1{
     font-size:xx-large;
     width: 802px;
     font-family: "Lato";
+
 }
 #job{
     font-size: large;
-}
-h2{
     font-family: "Lato";
+}
+#categorie{
+    font-family: "Lato";
+    color: #17abb3;
 }
 p{
     font-family: "Raleway";
