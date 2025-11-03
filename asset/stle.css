@@ -52,3 +52,12 @@ p{
 ul{
     font-family: "Raleway";
 }
+#perso{
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+}
+}
+}
+    max-width: 1160px;
+}
