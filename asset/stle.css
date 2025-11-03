@@ -1,3 +1,8 @@
 *{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1160px;
+    justify-content: center;
+    align-items: center;}
     max-width: 1160px;
 }
