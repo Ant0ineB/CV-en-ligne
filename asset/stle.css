@@ -5,10 +5,10 @@
     src: url(Fonts/Raleway-VariableFont_wght.ttf);
 }
 *{
-    display: flex;
+    display: flexbox;
     flex-wrap: wrap;
-    width: 1160px;
-    justify-content: center;
+    max-width: 1160px;
+    justify-content: space-evenly;
 }
 header{
     display: flex;
@@ -54,6 +54,47 @@ p{
 }
 ul{
     font-family: "Raleway";
+}
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+.element_1{
+    order: 1;
+    width: 350px;
+}
+.element_2{
+    order: 2;
+    width: 750px;
+}.element_3{
+    order: 3;
+    width: 350px;
+}
+.element_4{
+    order: 4;
+    width: 750px;
+}
+.element_5{
+    order: 5;
+    width: 350px;
+}
+.element_6{
+    order: 6;
+    width: 750px;
+}
+.element_7{
+    order: 7;
+    width: 350px;
+}
+.element_8{
+    order: 8;
+    width: 750px;
+}
+footer{
+    order: 9;
+    width: 1160px;
 }
 #perso{
     flex-wrap: wrap;
