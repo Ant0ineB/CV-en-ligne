@@ -128,3 +128,12 @@ ul li::before{
 .spanish{
     font-weight: bold
 }
+#perso{
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+}
+}
+}
+    max-width: 1160px;
+}
