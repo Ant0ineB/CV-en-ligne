@@ -64,6 +64,7 @@ body{
 .element_1{
     order: 1;
     width: 350px;
+    background-color: #e3e3e3;
 }
 .element_2{
     order: 2;
@@ -71,6 +72,7 @@ body{
 }.element_3{
     order: 3;
     width: 350px;
+    background-color: #e3e3e3;
 }
 .element_4{
     order: 4;
@@ -79,6 +81,7 @@ body{
 .element_5{
     order: 5;
     width: 350px;
+    background-color: #e3e3e3;
 }
 .element_6{
     order: 6;
@@ -87,6 +90,7 @@ body{
 .element_7{
     order: 7;
     width: 350px;
+    background-color: #e3e3e3;
 }
 .element_8{
     order: 8;
