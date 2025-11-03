@@ -41,3 +41,12 @@ h1{
 h2{
     font-family: "Lato";
 }
+#perso{
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+}
+}
+}
+    max-width: 1160px;
+}
