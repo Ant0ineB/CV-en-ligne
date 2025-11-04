@@ -156,6 +156,9 @@ footer{
     font-size: small;
     
 }
+.social:hover{
+    opacity: 0.5;
+}
 ul li::before{
     color: #17abb3;
 }
