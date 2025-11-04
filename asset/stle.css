@@ -105,9 +105,21 @@ body{
     width: 350px;
     background-color: #e3e3e3;
 }
+#formation{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
 .element_6{
     order: 6;
     width: 750px;
+}
+.element_6 :hover{
+    background-color: #e3e3e3;
+}
+.Stage{
+    font-weight: bold;
 }
 .element_7{
     order: 7;
