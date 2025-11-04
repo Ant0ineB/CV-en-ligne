@@ -5,7 +5,7 @@
     src: url(Fonts/Raleway-VariableFont_wght.ttf);
 }
 *{
-    display: flexbox;
+ 
     flex-wrap: wrap;
     max-width: 1160px;
     justify-content: space-evenly;
@@ -78,6 +78,27 @@ body{
 .element_4{
     order: 4;
     width: 750px;
+    height: auto;
+}
+.element_4 :hover{
+    background-color: #e3e3e3;
+}
+#formation{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.diplome{
+    font-weight: bold;
+}
+.annee{
+    color: #17abb3;
+    font-size: small;
+}
+.etablissement{
+    font-style: italic;
+    font-size: small;
 }
 .element_5{
     order: 5;
