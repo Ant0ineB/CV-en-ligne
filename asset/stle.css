@@ -35,6 +35,9 @@ a:visited{
     border-radius: 50%;
 
 }
+#moi:hover{
+    cursor: zoom-in;
+}
 h1{
     font-size:xx-large;
     width: 802px;
