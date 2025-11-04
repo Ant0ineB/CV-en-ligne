@@ -98,8 +98,18 @@ body{
     width: 750px;
 }
 footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
     order: 9;
     width: 1160px;
+    background-color: #17abb3;
+    justify-content:center;
+    color: #ffffff;
+    font-style: italic;
+    font-size: small;
+    
 }
 ul li::before{
     color: #17abb3;
